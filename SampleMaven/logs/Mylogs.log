@@ -1,0 +1,15 @@
+[TRACE] 2021-05-23 17:26:52.370 [main] log4jdemo - Starting to trace
+[INFO ] 2021-05-23 17:26:52.373 [main] log4jdemo - Information
+[ERROR] 2021-05-23 17:26:52.373 [main] log4jdemo - Error
+[WARN ] 2021-05-23 17:26:52.373 [main] log4jdemo - Warning
+[FATAL] 2021-05-23 17:26:52.373 [main] log4jdemo - Fatal
+[TRACE] 2021-05-23 17:36:57.755 [main] log4jdemo - Starting to trace
+[INFO ] 2021-05-23 17:36:57.757 [main] log4jdemo - Information
+[ERROR] 2021-05-23 17:36:57.757 [main] log4jdemo - Error
+[WARN ] 2021-05-23 17:36:57.758 [main] log4jdemo - Warning
+[FATAL] 2021-05-23 17:36:57.758 [main] log4jdemo - Fatal
+[TRACE] 2021-05-23 17:38:55.041 [main] log4jdemo - Starting to trace
+[INFO ] 2021-05-23 17:38:55.043 [main] log4jdemo - Information
+[ERROR] 2021-05-23 17:38:55.045 [main] log4jdemo - Error
+[WARN ] 2021-05-23 17:38:55.045 [main] log4jdemo - Warning
+[FATAL] 2021-05-23 17:38:55.045 [main] log4jdemo - Fatal
